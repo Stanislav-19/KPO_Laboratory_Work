@@ -13,3 +13,4 @@ if a>=1 and c<=10:
     print (int(list[-1]))
 else:
     print('Вы ввели неверное значение')
+print('изменение')
